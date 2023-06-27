@@ -1,1 +1,1 @@
-## Implementing and training nn and cnn: cs182
+## Implementing and training nn and cnn. cs182
