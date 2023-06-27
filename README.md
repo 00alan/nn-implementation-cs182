@@ -1,1 +1,1 @@
-## cs182: implementing and training nn and cnn
+Implementing and training nn and cnn: cs182, sp22
