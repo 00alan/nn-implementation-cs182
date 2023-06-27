@@ -7,6 +7,10 @@
 - then install (some redundancy with pytorch but is okay):
 numpy matplotlib pillow scipy h5py scikit-image cython imageio jupyter nltk
 
+- I used mamba, and python 3.11 (installed by pytorch by default)
+
+### potential issues
+
 - if certain data files are missing, may need to run certain bash scripts in the /datasets directories
 
 - for cython issues in assignments 1 and 2, run the following from /deeplearning directories and restart kernel:
@@ -14,4 +18,4 @@ python setup.py build_ext --inplace
 
 - for character encoding issues visit charset_decoder.py file
 
-- assignment2 extra credit takes a while
+- assignment2 extra credit can take a while
