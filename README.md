@@ -1,6 +1,6 @@
-## Implementing and training nn and cnn. cs182
+# Implementing and training nn and cnn. cs182
 
-#### env creation for running assignment 1 and 2 locally:
+### env creation for running assignment 1 and 2 locally:
 
 - install pytorch and torchvision from pytorch channel
 
